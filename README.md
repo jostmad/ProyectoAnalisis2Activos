@@ -3,7 +3,10 @@ Programa para control de activos para una empresa, este programa mas que todo es
 
 Autores 
 
-Jostin Madriz Sequeira.
-Alberto Monge Solano.
-Christofer Solano Loaiza.
-Kenneth Valerio Brenes.
+*Jostin Madriz Sequeira.
+
+*Alberto Monge Solano.
+
+*Christofer Solano Loaiza.
+
+*Kenneth Valerio Brenes.
