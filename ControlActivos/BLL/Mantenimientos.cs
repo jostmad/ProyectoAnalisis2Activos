@@ -167,6 +167,41 @@ namespace BLL
             return respuesta;
         }
 
+        public bool buscarRegistro(string tabla, string condicion)
+        {
+            bool respuesta = false;
+
+            try
+            {
+                SqlCommand comando = new SqlCommand();
+                comando.Connection = conexion;
+                comando.CommandText = "SELECT * FROM " + tabla + " WHERE " + condicion + ";";
+                if (ConectarServer())
+                {
+                    SqlDataReader leer = comando.ExecuteReader();
+                    if (leer.HasRows)
+                        respuesta = true;
+                    else
+                        respuesta = false;
+                }
+                else
+                {
+                    respuesta = false;
+                }
+            }
+            catch (Exception ex)
+            {
+                respuesta = false;
+                MotrarError = "Mensaje de la exepción: " + ex.Message.ToString();
+            }
+            finally
+            {
+                conexion.Close();
+            }
+
+            return respuesta;
+        }
+
 
         
 
