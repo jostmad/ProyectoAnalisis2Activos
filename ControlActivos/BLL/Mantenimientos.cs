@@ -72,5 +72,42 @@ namespace BLL
             return respuesta;
         }
 
+        public bool Modificar(string tabla, string campos, string condicion)
+        {
+            bool respuesta = false;
+
+            try
+            {
+                SqlCommand comando = new SqlCommand();
+                comando.Connection = conexion;
+
+                comando.CommandText = "UPDATE " + tabla + " SET " + campos + " WHERE " + condicion + ";";
+                if (ConectarServer())
+                {
+                    if (comando.ExecuteNonQuery() == 1)
+                        respuesta = true;
+                    else
+                        respuesta = false;
+                }
+                else
+                {
+                    respuesta = false;
+                }
+            }
+            catch (Exception ex)
+            {
+                respuesta = false;
+                MotrarError = "Mensaje de la excepción: " + ex.Message.ToString();
+            }
+            finally
+            {
+                conexion.Close();
+            }
+
+            return respuesta;
+        }
+
+        
+
     }
 }
