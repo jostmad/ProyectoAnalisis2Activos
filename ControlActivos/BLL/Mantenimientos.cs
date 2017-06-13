@@ -107,6 +107,42 @@ namespace BLL
             return respuesta;
         }
 
+        public bool Eliminar(string tabla, string condicion)
+        {
+            bool respuesta = false;
+
+            try
+            {
+                SqlCommand comando = new SqlCommand();
+                comando.Connection = conexion;
+
+                comando.CommandText = "DELETE FROM " + tabla + " WHERE " + condicion + ";";
+                if (ConectarServer())
+                {
+                    if (comando.ExecuteNonQuery() == 1)
+                        respuesta = true;
+                    else
+                        respuesta = false;
+                }
+                else
+                {
+                    respuesta = false;
+                }
+
+            }
+            catch (Exception ex)
+            {
+                respuesta = false;
+                MotrarError = "Mensaje de la excepción: " + ex.Message.ToString();
+            }
+            finally
+            {
+                conexion.Close();
+            }
+
+            return respuesta;
+        }
+
         
 
     }
