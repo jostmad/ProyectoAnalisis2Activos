@@ -203,7 +203,28 @@ namespace BLL
         }
 
 
-        
+        public DataSet MostrarRegistrosEditar(string tabla, string condicion)
+        {
+            DataSet respuesta = new DataSet();
+            try
+            {
+                string instruccionSQL = "SELECT * FROM " + tabla + " WHERE " + condicion + ";";
+                SqlDataAdapter adaptador = new SqlDataAdapter(instruccionSQL, conexion);
+                if (ConectarServer())
+                {
+                    adaptador.Fill(respuesta, tabla);
+                }
+            }
+            catch (Exception ex)
+            {
+                MotrarError = "Mensaje de la exepción: " + ex.Message.ToString();
+            }
+            finally
+            {
+                conexion.Close();
+            }
+            return respuesta;
+        }
 
     }
 }
