@@ -12,6 +12,7 @@ namespace BLL
         SqlConnection conexion = new SqlConnection();
 
         string motrarError;
+
         public string MotrarError
         {
             get { return motrarError; }
