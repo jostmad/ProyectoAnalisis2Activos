@@ -23,7 +23,7 @@
     <br>
        Cedula:<br><br>
        <input type="number" name="cedula" style="background-color:transparent; color:white"><br>
-        <br><br>Contraseña:<br /><br>
+        <br><br>Contraseña:<br/><br>
         <input type="password" name="pass" style="background-color:transparent; color:white"><br>
         <br><br><br>
         <input  type="submit" value="Ingresar" style="background-color:transparent; color:white">
