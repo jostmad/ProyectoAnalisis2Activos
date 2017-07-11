@@ -16,3 +16,9 @@ E:\Usuarios\Desktop\Proyecto Analisis II\ControlActivos\BLL\bin\Debug\BLL.pdb
 E:\Usuarios\Desktop\Proyecto Analisis II\ControlActivos\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
 E:\Usuarios\Desktop\Proyecto Analisis II\ControlActivos\BLL\obj\Debug\BLL.dll
 E:\Usuarios\Desktop\Proyecto Analisis II\ControlActivos\BLL\obj\Debug\BLL.pdb
+C:\Users\chris\Source\Repos\ProyectoAnalisis2Activos\ControlActivos\BLL\bin\Debug\BLL.dll.config
+C:\Users\chris\Source\Repos\ProyectoAnalisis2Activos\ControlActivos\BLL\bin\Debug\BLL.dll
+C:\Users\chris\Source\Repos\ProyectoAnalisis2Activos\ControlActivos\BLL\bin\Debug\BLL.pdb
+C:\Users\chris\Source\Repos\ProyectoAnalisis2Activos\ControlActivos\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\chris\Source\Repos\ProyectoAnalisis2Activos\ControlActivos\BLL\obj\Debug\BLL.dll
+C:\Users\chris\Source\Repos\ProyectoAnalisis2Activos\ControlActivos\BLL\obj\Debug\BLL.pdb

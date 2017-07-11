@@ -1,0 +1,46 @@
+﻿body {
+    margin: 0;
+padding: 0;
+background-color: #ADD2EC;
+height: auto;
+color:white;
+font-size:20px;
+}
+
+
+#content {
+margin: 0 auto;
+position: relative;
+width: 100%;
+height: 795px;
+}
+
+#izquierda{
+width:50%;
+height:100%;
+background-color:black;
+float: left;
+ align-content:center;
+ text-align:center;
+}
+#formu{
+margin-top:30%;
+}
+#formu input[type=number]{
+    border: none;
+border-bottom:2px solid white;
+width:200px;
+}
+#formu input[type=password]{
+    border: none;
+border-bottom:2px solid white;
+width:200px;
+}
+#derecha{
+width:50%;
+height:100%;
+background-color:#EEB600;
+float: right;
+ text-align:center;
+}
+

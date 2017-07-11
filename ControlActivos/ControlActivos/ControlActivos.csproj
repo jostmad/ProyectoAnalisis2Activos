@@ -136,9 +136,12 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Content\forms.css" />
+    <Content Include="Content\login.css" />
     <Content Include="Images\logo.png" />
+    <Content Include="Images\logo2.png" />
     <Content Include="Images\pani.png" />
     <Content Include="Images\pani_logo.png" />
+    <Content Include="Login.aspx" />
     <Content Include="Reportes.aspx" />
     <Content Include="Usuarios.aspx" />
     <Content Include="Activos.aspx" />
@@ -202,6 +205,13 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App_Start\BundleConfig.cs" />
+    <Compile Include="Login.aspx.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Login.aspx.designer.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Reportes.aspx.cs">
       <DependentUpon>Reportes.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>

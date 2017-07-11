@@ -3,7 +3,7 @@
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
      <link href="Content/forms.css" rel="stylesheet" />
     
-    <div class="formrepor"
+    <div class="formrepor">
     <h1><%: Title %>.</h1><br>
 
     <form  action="Reportes.aspx" method="post">
