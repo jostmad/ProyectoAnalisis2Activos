@@ -11,6 +11,9 @@ namespace BLL
     {
         SqlConnection conexion = new SqlConnection();
 
+        SqlConnection cn = new SqlConnection("Data Source=.;Initial Catalog=Pani;Integrated Security=True");
+
+
         string motrarError;
 
         public string MotrarError
@@ -38,16 +41,16 @@ namespace BLL
             return respuesta;
         }
 
-        public bool Registrar(string tabla, string campos, string valores)
+        public bool Registrar(string valores, string procedimiento)
         {
             bool respuesta = false;
 
             try
             {
-                SqlCommand comando = new SqlCommand();
-                comando.Connection = conexion;
+                SqlCommand comando = new SqlCommand("usp_insertaractivos", cn);
+                //especificamos que el comando es un procedimiento almacenado
+                comando.CommandType = CommandType.StoredProcedure;
 
-                comando.CommandText = "INSERT INTO " + tabla + "(" + campos + ") VALUES(" + valores + ");";
                 if (ConectarServer())
                 {
                     if (comando.ExecuteNonQuery() == 1)
