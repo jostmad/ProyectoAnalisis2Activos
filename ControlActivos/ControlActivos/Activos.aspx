@@ -6,45 +6,59 @@
     <h2><%: Title %>.</h2>
     <h3>Agregar Activos.</h3>
     
+        <asp:Label ID="Label1" runat="server"></asp:Label>
+    <hr>
+    
+
     <table class="formagre">
     <form  action="Activos.aspx" method="post">
    
     
         <tr><td>
        Codigo:<br>
-        <input type="number" name="codigo"><br>
+            <asp:TextBox ID="txt_codigo" runat="server"></asp:TextBox>
+            <br>
         </td><td>
             Modelo:<br>
-    <input type="text" name="modelo"><br>
+                <asp:TextBox ID="txt_modelo" runat="server"></asp:TextBox>
+                <br>
     </td><td>
             Marca:<br>
-        <input type="text" name="marca"><br>
+                <asp:TextBox ID="txt_marca" runat="server"></asp:TextBox>
+                <br>
     </td></tr><tr><td>
             S.O.:<br>
-        <input type="text" name="so"><br>
+            <asp:TextBox ID="txt_so" runat="server"></asp:TextBox>
+            <br>
     </td><td>Región:<br>
-        <input type="text" name="region"><br>
+                <asp:TextBox ID="txt_region" runat="server"></asp:TextBox>
+                <br>
     </td><td>Oficina:<br>
-        <input type="text" name="oficina"><br>
+                <asp:TextBox ID="txt_oficina" runat="server"></asp:TextBox>
+                <br>
     </td><tr><td>Usuario:<br>
-        <input type="number" name="usuario"><br>
+            <asp:TextBox ID="txt_usuario" runat="server"></asp:TextBox>
+            <br>
     </td><td>Tipo Activo:<br>
-        <input type="number" name="tipoact"><br>
+                <asp:TextBox ID="txt_tipoactivo" runat="server"></asp:TextBox>
+                <br>
     </td><td>Imagen:<br>
     <INPUT id="oFile" type="file" runat="server" NAME="oFile">
 
     </td></tr><tr><td>Fecha:<br>
-        <input type="date" name="fecha"><br>
+            <asp:TextBox ID="txt_fecha" runat="server"></asp:TextBox>
+            <br>
 
     </td><td>Garantia:<br>
-        <input type="number" name="garantia"><br>
+                <asp:TextBox ID="txt_garantia" runat="server"></asp:TextBox>
+                <br>
         
-   <td> <br><input  type="submit" value="Agregar">
-    </td></tr>
+   <td> <br>
+       <asp:Button ID="b_agregar" runat="server" Text="Agregar" OnClick="b_agregar_Click" />
+&nbsp;</td></tr>
         
         </form>
     </table>
-    <hr>
     
 
     <h3>Buscar Activo. <input type="number" name="codigoBus"><input  type="submit" value="Buscar"></h3>
