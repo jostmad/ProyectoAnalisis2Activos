@@ -1,0 +1,97 @@
+﻿body {
+    text-align:center;
+}
+.formagre {
+    height:150px;
+    width:1000px;
+   text-align:center;
+   margin-left:10%;
+}
+
+
+.contact{
+
+    margin-top:10%;
+    background-color:lightgrey;
+    border-radius:10%;
+}
+
+.formrepor{
+    
+    font: 100% Arial, Helvetica, sans-serif;
+    max-width: 400px;
+    margin: 50px auto;
+    padding: 16px;
+    background: #F7F7F7;
+}
+.formrepor h1{
+    background:red;
+    padding: 20px 0;
+    font-size: 100%;
+    font-weight: 500;
+    text-align: center;
+    color: #fff;
+    margin: -16px -16px 16px -16px;
+}
+.formrepor input[type="text"],
+.formrepor input[type="date"],
+.formrepor input[type="datetime"],
+.formrepor input[type="email"],
+.formrepor input[type="number"],
+.formrepor input[type="search"],
+.formrepor input[type="time"],
+.formrepor input[type="url"],
+.formrepor textarea,
+.formrepor select 
+{
+    -webkit-transition: all 0.30s ease-in-out;
+    -moz-transition: all 0.30s ease-in-out;
+    -ms-transition: all 0.30s ease-in-out;
+    -o-transition: all 0.30s ease-in-out;
+    outline: none;
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    width: 100%;
+    background: #fff;
+    margin-bottom: 4%;
+    border: 1px solid #ccc;
+    padding: 3%;
+    color: #555;
+    font: 95% Arial, Helvetica, sans-serif;
+}
+.formrepor input[type="text"]:focus,
+.formrepor input[type="date"]:focus,
+.formrepor input[type="datetime"]:focus,
+.formrepor input[type="email"]:focus,
+.formrepor input[type="number"]:focus,
+.formrepor input[type="search"]:focus,
+.formrepor input[type="time"]:focus,
+.formrepor input[type="url"]:focus,
+.formrepor textarea:focus,
+.formrepor select:focus
+{
+    box-shadow: 0 0 5px #43D1AF;
+    padding: 3%;
+    border: 1px solid #43D1AF;
+}
+
+.formrepor input[type="submit"],
+.formrepor input[type="button"]{
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    width: 100%;
+    padding: 3%;
+    background: #43D1AF;
+    border-bottom: 2px solid #30C29E;
+    border-top-style: none;
+    border-right-style: none;
+    border-left-style: none;    
+    color: #fff;
+}
+.formrepor input[type="submit"]:hover,
+.formrepor input[type="button"]:hover{
+    background: #2EBC99;
+}
+

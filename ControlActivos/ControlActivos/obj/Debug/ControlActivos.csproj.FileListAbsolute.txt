@@ -1,0 +1,258 @@
+C:\Users\kenne\Desktop\ControlActivos\ControlActivos\bin\ApplicationInsights.config
+C:\Users\kenne\Desktop\ControlActivos\ControlActivos\bin\roslyn\csc.exe
+C:\Users\kenne\Desktop\ControlActivos\ControlActivos\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\kenne\Desktop\ControlActivos\ControlActivos\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\kenne\Desktop\ControlActivos\ControlActivos\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\kenne\Desktop\ControlActivos\ControlActivos\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\kenne\Desktop\ControlActivos\ControlActivos\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\kenne\Desktop\ControlActivos\ControlActivos\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\kenne\Desktop\ControlActivos\ControlActivos\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\kenne\Desktop\ControlActivos\ControlActivos\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\kenne\Desktop\ControlActivos\ControlActivos\bin\roslyn\vbc.exe
+C:\Users\kenne\Desktop\ControlActivos\ControlActivos\bin\roslyn\VBCSCompiler.exe
+C:\Users\kenne\Desktop\ControlActivos\ControlActivos\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\kenne\Desktop\ControlActivos\ControlActivos\bin\ControlActivos.dll.config
+C:\Users\kenne\Desktop\ControlActivos\ControlActivos\bin\ControlActivos.dll
+C:\Users\kenne\Desktop\ControlActivos\ControlActivos\bin\ControlActivos.pdb
+C:\Users\kenne\Desktop\ControlActivos\ControlActivos\bin\Antlr3.Runtime.dll
+C:\Users\kenne\Desktop\ControlActivos\ControlActivos\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\kenne\Desktop\ControlActivos\ControlActivos\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\kenne\Desktop\ControlActivos\ControlActivos\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\kenne\Desktop\ControlActivos\ControlActivos\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\kenne\Desktop\ControlActivos\ControlActivos\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\kenne\Desktop\ControlActivos\ControlActivos\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\kenne\Desktop\ControlActivos\ControlActivos\bin\Microsoft.AI.Web.dll
+C:\Users\kenne\Desktop\ControlActivos\ControlActivos\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\kenne\Desktop\ControlActivos\ControlActivos\bin\Microsoft.ApplicationInsights.dll
+C:\Users\kenne\Desktop\ControlActivos\ControlActivos\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\kenne\Desktop\ControlActivos\ControlActivos\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\kenne\Desktop\ControlActivos\ControlActivos\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\kenne\Desktop\ControlActivos\ControlActivos\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\kenne\Desktop\ControlActivos\ControlActivos\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\kenne\Desktop\ControlActivos\ControlActivos\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\kenne\Desktop\ControlActivos\ControlActivos\bin\Newtonsoft.Json.dll
+C:\Users\kenne\Desktop\ControlActivos\ControlActivos\bin\System.Web.Optimization.dll
+C:\Users\kenne\Desktop\ControlActivos\ControlActivos\bin\WebGrease.dll
+C:\Users\kenne\Desktop\ControlActivos\ControlActivos\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\kenne\Desktop\ControlActivos\ControlActivos\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\kenne\Desktop\ControlActivos\ControlActivos\bin\Microsoft.AI.Web.xml
+C:\Users\kenne\Desktop\ControlActivos\ControlActivos\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\kenne\Desktop\ControlActivos\ControlActivos\bin\Microsoft.ApplicationInsights.xml
+C:\Users\kenne\Desktop\ControlActivos\ControlActivos\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\kenne\Desktop\ControlActivos\ControlActivos\bin\System.Web.Optimization.xml
+C:\Users\kenne\Desktop\ControlActivos\ControlActivos\bin\Antlr3.Runtime.pdb
+C:\Users\kenne\Desktop\ControlActivos\ControlActivos\bin\Newtonsoft.Json.xml
+C:\Users\kenne\Desktop\ControlActivos\ControlActivos\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\kenne\Desktop\ControlActivos\ControlActivos\bin\es\System.Web.Optimization.resources.dll
+C:\Users\kenne\Desktop\ControlActivos\ControlActivos\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\kenne\Desktop\ControlActivos\ControlActivos\obj\Debug\ControlActivos.csprojResolveAssemblyReference.cache
+C:\Users\kenne\Desktop\ControlActivos\ControlActivos\obj\Debug\ControlActivos.dll
+C:\Users\kenne\Desktop\ControlActivos\ControlActivos\obj\Debug\ControlActivos.pdb
+F:\an\ControlActivos\ControlActivos\bin\ApplicationInsights.config
+F:\an\ControlActivos\ControlActivos\bin\roslyn\csc.exe
+F:\an\ControlActivos\ControlActivos\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\an\ControlActivos\ControlActivos\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\an\ControlActivos\ControlActivos\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\an\ControlActivos\ControlActivos\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\an\ControlActivos\ControlActivos\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\an\ControlActivos\ControlActivos\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\an\ControlActivos\ControlActivos\bin\roslyn\System.Collections.Immutable.dll
+F:\an\ControlActivos\ControlActivos\bin\roslyn\System.Reflection.Metadata.dll
+F:\an\ControlActivos\ControlActivos\bin\roslyn\vbc.exe
+F:\an\ControlActivos\ControlActivos\bin\roslyn\VBCSCompiler.exe
+F:\an\ControlActivos\ControlActivos\bin\roslyn\VBCSCompiler.exe.config
+F:\an\ControlActivos\ControlActivos\bin\ControlActivos.dll.config
+F:\an\ControlActivos\ControlActivos\bin\ControlActivos.dll
+F:\an\ControlActivos\ControlActivos\bin\ControlActivos.pdb
+F:\an\ControlActivos\ControlActivos\bin\Antlr3.Runtime.dll
+F:\an\ControlActivos\ControlActivos\bin\AspNet.ScriptManager.bootstrap.dll
+F:\an\ControlActivos\ControlActivos\bin\AspNet.ScriptManager.jQuery.dll
+F:\an\ControlActivos\ControlActivos\bin\BLL.dll
+F:\an\ControlActivos\ControlActivos\bin\Microsoft.AI.Agent.Intercept.dll
+F:\an\ControlActivos\ControlActivos\bin\Microsoft.AI.DependencyCollector.dll
+F:\an\ControlActivos\ControlActivos\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\an\ControlActivos\ControlActivos\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\an\ControlActivos\ControlActivos\bin\Microsoft.AI.Web.dll
+F:\an\ControlActivos\ControlActivos\bin\Microsoft.AI.WindowsServer.dll
+F:\an\ControlActivos\ControlActivos\bin\Microsoft.ApplicationInsights.dll
+F:\an\ControlActivos\ControlActivos\bin\Microsoft.AspNet.FriendlyUrls.dll
+F:\an\ControlActivos\ControlActivos\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+F:\an\ControlActivos\ControlActivos\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\an\ControlActivos\ControlActivos\bin\Microsoft.ScriptManager.MSAjax.dll
+F:\an\ControlActivos\ControlActivos\bin\Microsoft.ScriptManager.WebForms.dll
+F:\an\ControlActivos\ControlActivos\bin\Microsoft.Web.Infrastructure.dll
+F:\an\ControlActivos\ControlActivos\bin\Newtonsoft.Json.dll
+F:\an\ControlActivos\ControlActivos\bin\System.Web.Optimization.dll
+F:\an\ControlActivos\ControlActivos\bin\WebGrease.dll
+F:\an\ControlActivos\ControlActivos\bin\BLL.pdb
+F:\an\ControlActivos\ControlActivos\bin\Microsoft.AI.DependencyCollector.xml
+F:\an\ControlActivos\ControlActivos\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\an\ControlActivos\ControlActivos\bin\Microsoft.AI.Web.xml
+F:\an\ControlActivos\ControlActivos\bin\Microsoft.AI.WindowsServer.xml
+F:\an\ControlActivos\ControlActivos\bin\Microsoft.ApplicationInsights.xml
+F:\an\ControlActivos\ControlActivos\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\an\ControlActivos\ControlActivos\bin\System.Web.Optimization.xml
+F:\an\ControlActivos\ControlActivos\bin\Antlr3.Runtime.pdb
+F:\an\ControlActivos\ControlActivos\bin\Newtonsoft.Json.xml
+F:\an\ControlActivos\ControlActivos\bin\Microsoft.AspNet.FriendlyUrls.xml
+F:\an\ControlActivos\ControlActivos\bin\es\System.Web.Optimization.resources.dll
+F:\an\ControlActivos\ControlActivos\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+F:\an\ControlActivos\ControlActivos\obj\Debug\ControlActivos.csprojResolveAssemblyReference.cache
+F:\an\ControlActivos\ControlActivos\obj\Debug\ControlActivos.dll
+F:\an\ControlActivos\ControlActivos\obj\Debug\ControlActivos.pdb
+C:\Users\kenne\Downloads\ControlActivos\ControlActivos\bin\ApplicationInsights.config
+C:\Users\kenne\Downloads\ControlActivos\ControlActivos\bin\roslyn\csc.exe
+C:\Users\kenne\Downloads\ControlActivos\ControlActivos\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\kenne\Downloads\ControlActivos\ControlActivos\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\kenne\Downloads\ControlActivos\ControlActivos\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\kenne\Downloads\ControlActivos\ControlActivos\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\kenne\Downloads\ControlActivos\ControlActivos\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\kenne\Downloads\ControlActivos\ControlActivos\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\kenne\Downloads\ControlActivos\ControlActivos\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\kenne\Downloads\ControlActivos\ControlActivos\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\kenne\Downloads\ControlActivos\ControlActivos\bin\roslyn\vbc.exe
+C:\Users\kenne\Downloads\ControlActivos\ControlActivos\bin\roslyn\VBCSCompiler.exe
+C:\Users\kenne\Downloads\ControlActivos\ControlActivos\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\kenne\Downloads\ControlActivos\ControlActivos\bin\ControlActivos.dll.config
+C:\Users\kenne\Downloads\ControlActivos\ControlActivos\bin\ControlActivos.dll
+C:\Users\kenne\Downloads\ControlActivos\ControlActivos\bin\ControlActivos.pdb
+C:\Users\kenne\Downloads\ControlActivos\ControlActivos\bin\Antlr3.Runtime.dll
+C:\Users\kenne\Downloads\ControlActivos\ControlActivos\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\kenne\Downloads\ControlActivos\ControlActivos\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\kenne\Downloads\ControlActivos\ControlActivos\bin\BLL.dll
+C:\Users\kenne\Downloads\ControlActivos\ControlActivos\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\kenne\Downloads\ControlActivos\ControlActivos\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\kenne\Downloads\ControlActivos\ControlActivos\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\kenne\Downloads\ControlActivos\ControlActivos\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\kenne\Downloads\ControlActivos\ControlActivos\bin\Microsoft.AI.Web.dll
+C:\Users\kenne\Downloads\ControlActivos\ControlActivos\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\kenne\Downloads\ControlActivos\ControlActivos\bin\Microsoft.ApplicationInsights.dll
+C:\Users\kenne\Downloads\ControlActivos\ControlActivos\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\kenne\Downloads\ControlActivos\ControlActivos\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\kenne\Downloads\ControlActivos\ControlActivos\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\kenne\Downloads\ControlActivos\ControlActivos\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\kenne\Downloads\ControlActivos\ControlActivos\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\kenne\Downloads\ControlActivos\ControlActivos\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\kenne\Downloads\ControlActivos\ControlActivos\bin\Newtonsoft.Json.dll
+C:\Users\kenne\Downloads\ControlActivos\ControlActivos\bin\System.Web.Optimization.dll
+C:\Users\kenne\Downloads\ControlActivos\ControlActivos\bin\WebGrease.dll
+C:\Users\kenne\Downloads\ControlActivos\ControlActivos\bin\BLL.pdb
+C:\Users\kenne\Downloads\ControlActivos\ControlActivos\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\kenne\Downloads\ControlActivos\ControlActivos\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\kenne\Downloads\ControlActivos\ControlActivos\bin\Microsoft.AI.Web.xml
+C:\Users\kenne\Downloads\ControlActivos\ControlActivos\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\kenne\Downloads\ControlActivos\ControlActivos\bin\Microsoft.ApplicationInsights.xml
+C:\Users\kenne\Downloads\ControlActivos\ControlActivos\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\kenne\Downloads\ControlActivos\ControlActivos\bin\System.Web.Optimization.xml
+C:\Users\kenne\Downloads\ControlActivos\ControlActivos\bin\Antlr3.Runtime.pdb
+C:\Users\kenne\Downloads\ControlActivos\ControlActivos\bin\Newtonsoft.Json.xml
+C:\Users\kenne\Downloads\ControlActivos\ControlActivos\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\kenne\Downloads\ControlActivos\ControlActivos\bin\es\System.Web.Optimization.resources.dll
+C:\Users\kenne\Downloads\ControlActivos\ControlActivos\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\kenne\Downloads\ControlActivos\ControlActivos\obj\Debug\ControlActivos.csprojResolveAssemblyReference.cache
+C:\Users\kenne\Downloads\ControlActivos\ControlActivos\obj\Debug\ControlActivos.dll
+C:\Users\kenne\Downloads\ControlActivos\ControlActivos\obj\Debug\ControlActivos.pdb
+C:\Users\kenne\Source\Repos\ProyectoAnalisis2Activos2\ControlActivos\ControlActivos\bin\ApplicationInsights.config
+C:\Users\kenne\Source\Repos\ProyectoAnalisis2Activos2\ControlActivos\ControlActivos\bin\roslyn\csc.exe
+C:\Users\kenne\Source\Repos\ProyectoAnalisis2Activos2\ControlActivos\ControlActivos\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\kenne\Source\Repos\ProyectoAnalisis2Activos2\ControlActivos\ControlActivos\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\kenne\Source\Repos\ProyectoAnalisis2Activos2\ControlActivos\ControlActivos\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\kenne\Source\Repos\ProyectoAnalisis2Activos2\ControlActivos\ControlActivos\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\kenne\Source\Repos\ProyectoAnalisis2Activos2\ControlActivos\ControlActivos\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\kenne\Source\Repos\ProyectoAnalisis2Activos2\ControlActivos\ControlActivos\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\kenne\Source\Repos\ProyectoAnalisis2Activos2\ControlActivos\ControlActivos\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\kenne\Source\Repos\ProyectoAnalisis2Activos2\ControlActivos\ControlActivos\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\kenne\Source\Repos\ProyectoAnalisis2Activos2\ControlActivos\ControlActivos\bin\roslyn\vbc.exe
+C:\Users\kenne\Source\Repos\ProyectoAnalisis2Activos2\ControlActivos\ControlActivos\bin\roslyn\VBCSCompiler.exe
+C:\Users\kenne\Source\Repos\ProyectoAnalisis2Activos2\ControlActivos\ControlActivos\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\kenne\Source\Repos\ProyectoAnalisis2Activos2\ControlActivos\ControlActivos\bin\ControlActivos.dll.config
+C:\Users\kenne\Source\Repos\ProyectoAnalisis2Activos2\ControlActivos\ControlActivos\bin\ControlActivos.dll
+C:\Users\kenne\Source\Repos\ProyectoAnalisis2Activos2\ControlActivos\ControlActivos\bin\ControlActivos.pdb
+C:\Users\kenne\Source\Repos\ProyectoAnalisis2Activos2\ControlActivos\ControlActivos\bin\Antlr3.Runtime.dll
+C:\Users\kenne\Source\Repos\ProyectoAnalisis2Activos2\ControlActivos\ControlActivos\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\kenne\Source\Repos\ProyectoAnalisis2Activos2\ControlActivos\ControlActivos\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\kenne\Source\Repos\ProyectoAnalisis2Activos2\ControlActivos\ControlActivos\bin\BLL.dll
+C:\Users\kenne\Source\Repos\ProyectoAnalisis2Activos2\ControlActivos\ControlActivos\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\kenne\Source\Repos\ProyectoAnalisis2Activos2\ControlActivos\ControlActivos\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\kenne\Source\Repos\ProyectoAnalisis2Activos2\ControlActivos\ControlActivos\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\kenne\Source\Repos\ProyectoAnalisis2Activos2\ControlActivos\ControlActivos\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\kenne\Source\Repos\ProyectoAnalisis2Activos2\ControlActivos\ControlActivos\bin\Microsoft.AI.Web.dll
+C:\Users\kenne\Source\Repos\ProyectoAnalisis2Activos2\ControlActivos\ControlActivos\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\kenne\Source\Repos\ProyectoAnalisis2Activos2\ControlActivos\ControlActivos\bin\Microsoft.ApplicationInsights.dll
+C:\Users\kenne\Source\Repos\ProyectoAnalisis2Activos2\ControlActivos\ControlActivos\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\kenne\Source\Repos\ProyectoAnalisis2Activos2\ControlActivos\ControlActivos\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\kenne\Source\Repos\ProyectoAnalisis2Activos2\ControlActivos\ControlActivos\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\kenne\Source\Repos\ProyectoAnalisis2Activos2\ControlActivos\ControlActivos\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\kenne\Source\Repos\ProyectoAnalisis2Activos2\ControlActivos\ControlActivos\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\kenne\Source\Repos\ProyectoAnalisis2Activos2\ControlActivos\ControlActivos\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\kenne\Source\Repos\ProyectoAnalisis2Activos2\ControlActivos\ControlActivos\bin\Newtonsoft.Json.dll
+C:\Users\kenne\Source\Repos\ProyectoAnalisis2Activos2\ControlActivos\ControlActivos\bin\System.Web.Optimization.dll
+C:\Users\kenne\Source\Repos\ProyectoAnalisis2Activos2\ControlActivos\ControlActivos\bin\WebGrease.dll
+C:\Users\kenne\Source\Repos\ProyectoAnalisis2Activos2\ControlActivos\ControlActivos\bin\BLL.pdb
+C:\Users\kenne\Source\Repos\ProyectoAnalisis2Activos2\ControlActivos\ControlActivos\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\kenne\Source\Repos\ProyectoAnalisis2Activos2\ControlActivos\ControlActivos\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\kenne\Source\Repos\ProyectoAnalisis2Activos2\ControlActivos\ControlActivos\bin\Microsoft.AI.Web.xml
+C:\Users\kenne\Source\Repos\ProyectoAnalisis2Activos2\ControlActivos\ControlActivos\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\kenne\Source\Repos\ProyectoAnalisis2Activos2\ControlActivos\ControlActivos\bin\Microsoft.ApplicationInsights.xml
+C:\Users\kenne\Source\Repos\ProyectoAnalisis2Activos2\ControlActivos\ControlActivos\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\kenne\Source\Repos\ProyectoAnalisis2Activos2\ControlActivos\ControlActivos\bin\System.Web.Optimization.xml
+C:\Users\kenne\Source\Repos\ProyectoAnalisis2Activos2\ControlActivos\ControlActivos\bin\Antlr3.Runtime.pdb
+C:\Users\kenne\Source\Repos\ProyectoAnalisis2Activos2\ControlActivos\ControlActivos\bin\Newtonsoft.Json.xml
+C:\Users\kenne\Source\Repos\ProyectoAnalisis2Activos2\ControlActivos\ControlActivos\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\kenne\Source\Repos\ProyectoAnalisis2Activos2\ControlActivos\ControlActivos\bin\es\System.Web.Optimization.resources.dll
+C:\Users\kenne\Source\Repos\ProyectoAnalisis2Activos2\ControlActivos\ControlActivos\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\kenne\Source\Repos\ProyectoAnalisis2Activos2\ControlActivos\ControlActivos\obj\Debug\ControlActivos.csprojResolveAssemblyReference.cache
+C:\Users\kenne\Source\Repos\ProyectoAnalisis2Activos2\ControlActivos\ControlActivos\obj\Debug\ControlActivos.dll
+C:\Users\kenne\Source\Repos\ProyectoAnalisis2Activos2\ControlActivos\ControlActivos\obj\Debug\ControlActivos.pdb
+E:\Usuarios\Desktop\Proyecto Analisis II\ControlActivos\ControlActivos\bin\ApplicationInsights.config
+E:\Usuarios\Desktop\Proyecto Analisis II\ControlActivos\ControlActivos\bin\roslyn\csc.exe
+E:\Usuarios\Desktop\Proyecto Analisis II\ControlActivos\ControlActivos\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Usuarios\Desktop\Proyecto Analisis II\ControlActivos\ControlActivos\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Usuarios\Desktop\Proyecto Analisis II\ControlActivos\ControlActivos\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Usuarios\Desktop\Proyecto Analisis II\ControlActivos\ControlActivos\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Usuarios\Desktop\Proyecto Analisis II\ControlActivos\ControlActivos\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Usuarios\Desktop\Proyecto Analisis II\ControlActivos\ControlActivos\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Usuarios\Desktop\Proyecto Analisis II\ControlActivos\ControlActivos\bin\roslyn\System.Collections.Immutable.dll
+E:\Usuarios\Desktop\Proyecto Analisis II\ControlActivos\ControlActivos\bin\roslyn\System.Reflection.Metadata.dll
+E:\Usuarios\Desktop\Proyecto Analisis II\ControlActivos\ControlActivos\bin\roslyn\vbc.exe
+E:\Usuarios\Desktop\Proyecto Analisis II\ControlActivos\ControlActivos\bin\roslyn\VBCSCompiler.exe
+E:\Usuarios\Desktop\Proyecto Analisis II\ControlActivos\ControlActivos\bin\roslyn\VBCSCompiler.exe.config
+E:\Usuarios\Desktop\Proyecto Analisis II\ControlActivos\ControlActivos\bin\ControlActivos.dll.config
+E:\Usuarios\Desktop\Proyecto Analisis II\ControlActivos\ControlActivos\bin\ControlActivos.dll
+E:\Usuarios\Desktop\Proyecto Analisis II\ControlActivos\ControlActivos\bin\ControlActivos.pdb
+E:\Usuarios\Desktop\Proyecto Analisis II\ControlActivos\ControlActivos\bin\Antlr3.Runtime.dll
+E:\Usuarios\Desktop\Proyecto Analisis II\ControlActivos\ControlActivos\bin\AspNet.ScriptManager.bootstrap.dll
+E:\Usuarios\Desktop\Proyecto Analisis II\ControlActivos\ControlActivos\bin\AspNet.ScriptManager.jQuery.dll
+E:\Usuarios\Desktop\Proyecto Analisis II\ControlActivos\ControlActivos\bin\BLL.dll
+E:\Usuarios\Desktop\Proyecto Analisis II\ControlActivos\ControlActivos\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Usuarios\Desktop\Proyecto Analisis II\ControlActivos\ControlActivos\bin\Microsoft.AI.DependencyCollector.dll
+E:\Usuarios\Desktop\Proyecto Analisis II\ControlActivos\ControlActivos\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Usuarios\Desktop\Proyecto Analisis II\ControlActivos\ControlActivos\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Usuarios\Desktop\Proyecto Analisis II\ControlActivos\ControlActivos\bin\Microsoft.AI.Web.dll
+E:\Usuarios\Desktop\Proyecto Analisis II\ControlActivos\ControlActivos\bin\Microsoft.AI.WindowsServer.dll
+E:\Usuarios\Desktop\Proyecto Analisis II\ControlActivos\ControlActivos\bin\Microsoft.ApplicationInsights.dll
+E:\Usuarios\Desktop\Proyecto Analisis II\ControlActivos\ControlActivos\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\Usuarios\Desktop\Proyecto Analisis II\ControlActivos\ControlActivos\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\Usuarios\Desktop\Proyecto Analisis II\ControlActivos\ControlActivos\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Usuarios\Desktop\Proyecto Analisis II\ControlActivos\ControlActivos\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\Usuarios\Desktop\Proyecto Analisis II\ControlActivos\ControlActivos\bin\Microsoft.ScriptManager.WebForms.dll
+E:\Usuarios\Desktop\Proyecto Analisis II\ControlActivos\ControlActivos\bin\Microsoft.Web.Infrastructure.dll
+E:\Usuarios\Desktop\Proyecto Analisis II\ControlActivos\ControlActivos\bin\Newtonsoft.Json.dll
+E:\Usuarios\Desktop\Proyecto Analisis II\ControlActivos\ControlActivos\bin\System.Web.Optimization.dll
+E:\Usuarios\Desktop\Proyecto Analisis II\ControlActivos\ControlActivos\bin\WebGrease.dll
+E:\Usuarios\Desktop\Proyecto Analisis II\ControlActivos\ControlActivos\bin\BLL.pdb
+E:\Usuarios\Desktop\Proyecto Analisis II\ControlActivos\ControlActivos\bin\Microsoft.AI.DependencyCollector.xml
+E:\Usuarios\Desktop\Proyecto Analisis II\ControlActivos\ControlActivos\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Usuarios\Desktop\Proyecto Analisis II\ControlActivos\ControlActivos\bin\Microsoft.AI.Web.xml
+E:\Usuarios\Desktop\Proyecto Analisis II\ControlActivos\ControlActivos\bin\Microsoft.AI.WindowsServer.xml
+E:\Usuarios\Desktop\Proyecto Analisis II\ControlActivos\ControlActivos\bin\Microsoft.ApplicationInsights.xml
+E:\Usuarios\Desktop\Proyecto Analisis II\ControlActivos\ControlActivos\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Usuarios\Desktop\Proyecto Analisis II\ControlActivos\ControlActivos\bin\System.Web.Optimization.xml
+E:\Usuarios\Desktop\Proyecto Analisis II\ControlActivos\ControlActivos\bin\Antlr3.Runtime.pdb
+E:\Usuarios\Desktop\Proyecto Analisis II\ControlActivos\ControlActivos\bin\Newtonsoft.Json.xml
+E:\Usuarios\Desktop\Proyecto Analisis II\ControlActivos\ControlActivos\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\Usuarios\Desktop\Proyecto Analisis II\ControlActivos\ControlActivos\bin\es\System.Web.Optimization.resources.dll
+E:\Usuarios\Desktop\Proyecto Analisis II\ControlActivos\ControlActivos\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+E:\Usuarios\Desktop\Proyecto Analisis II\ControlActivos\ControlActivos\obj\Debug\ControlActivos.csprojResolveAssemblyReference.cache
+E:\Usuarios\Desktop\Proyecto Analisis II\ControlActivos\ControlActivos\obj\Debug\ControlActivos.dll
+E:\Usuarios\Desktop\Proyecto Analisis II\ControlActivos\ControlActivos\obj\Debug\ControlActivos.pdb
