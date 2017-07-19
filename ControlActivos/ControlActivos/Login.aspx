@@ -22,11 +22,11 @@
     <h2>Ingresar</h2>
     <br>
        Cedula:<br><br>
-       <input type="number" name="cedula" style="background-color:transparent; color:white"><br>
+       <input type="number" name="cedula" style="background-color:transparent; color:black"><br>
         <br><br>Contraseña:<br/><br>
-        <input type="password" name="pass" style="background-color:transparent; color:white"><br>
+        <input type="password" name="pass" style="background-color:transparent; color:black"><br>
         <br><br><br>
-        <input  type="submit" value="Ingresar" style="background-color:transparent; color:white">
+        <input  type="submit" value="Ingresar" style="background-color:transparent; color:black">
   <br><br>
          
         </form>
