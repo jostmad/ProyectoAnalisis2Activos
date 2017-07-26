@@ -3,7 +3,7 @@
 padding: 0;
 background-color: #ADD2EC;
 height: auto;
-color:white;
+--color:black;
 font-size:20px;
 }
 
@@ -18,22 +18,24 @@ height: 795px;
 #izquierda{
 width:50%;
 height:100%;
-background-color:black;
+background-color:white;
 float: left;
  align-content:center;
  text-align:center;
 }
 #formu{
-margin-top:30%;
+
+border-style:dotted;
+margin:20% 20% 20% 20%;
 }
 #formu input[type=number]{
     border: none;
-border-bottom:2px solid white;
+border-bottom:2px solid black;
 width:200px;
 }
 #formu input[type=password]{
     border: none;
-border-bottom:2px solid white;
+border-bottom:2px solid black;
 width:200px;
 }
 #derecha{
@@ -43,4 +45,5 @@ background-color:#EEB600;
 float: right;
  text-align:center;
 }
+
 
