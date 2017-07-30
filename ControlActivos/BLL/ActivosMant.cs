@@ -11,7 +11,7 @@ namespace BLL
 {
     public class ActivosMant
     {
-        SqlConnection cn = new SqlConnection("Data Source=.;Initial Catalog=Pani;Integrated Security=True");
+        SqlConnection cn = new SqlConnection("Data Source=localhost;Initial Catalog=Pani;Integrated Security=True");
         Mantenimientos obj = new Mantenimientos();
 
         #region propiedades
