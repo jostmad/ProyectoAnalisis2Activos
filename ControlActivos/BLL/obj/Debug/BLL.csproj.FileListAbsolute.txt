@@ -22,3 +22,5 @@ C:\Users\chris\Source\Repos\ProyectoAnalisis2Activos\ControlActivos\BLL\bin\Debu
 C:\Users\chris\Source\Repos\ProyectoAnalisis2Activos\ControlActivos\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
 C:\Users\chris\Source\Repos\ProyectoAnalisis2Activos\ControlActivos\BLL\obj\Debug\BLL.dll
 C:\Users\chris\Source\Repos\ProyectoAnalisis2Activos\ControlActivos\BLL\obj\Debug\BLL.pdb
+C:\Users\kenne\Source\Repos\ProyectoAnalisis2Activos2\ControlActivos\BLL\bin\Debug\DAL.dll
+C:\Users\kenne\Source\Repos\ProyectoAnalisis2Activos2\ControlActivos\BLL\bin\Debug\DAL.pdb

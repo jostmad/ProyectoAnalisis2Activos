@@ -1,0 +1,5 @@
+C:\Users\kenne\Source\Repos\ProyectoAnalisis2Activos2\ControlActivos\DAL\bin\Debug\DAL.dll
+C:\Users\kenne\Source\Repos\ProyectoAnalisis2Activos2\ControlActivos\DAL\bin\Debug\DAL.pdb
+C:\Users\kenne\Source\Repos\ProyectoAnalisis2Activos2\ControlActivos\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\kenne\Source\Repos\ProyectoAnalisis2Activos2\ControlActivos\DAL\obj\Debug\DAL.dll
+C:\Users\kenne\Source\Repos\ProyectoAnalisis2Activos2\ControlActivos\DAL\obj\Debug\DAL.pdb
