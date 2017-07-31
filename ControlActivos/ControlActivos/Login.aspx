@@ -10,26 +10,37 @@
 </head>
 <body >
     
-    <form id="form1" runat="server">
+   
     
 
         <div id="content"> 
 <div id="izquierda"> 
    
     <div id="formu">
-     <form  method="post" >
+     <form  method="post" runat="server" >
    
     <h2>Ingresar</h2>
     <br>
-       Cedula:<br><br>
-       <input type="number" name="cedula" style="background-color:transparent; color:black"><br>
-        <br><br>Contraseña:<br/><br>
-        <input type="password" name="pass" style="background-color:transparent; color:black"><br>
-        <br><br><br>
-        <input  type="submit" value="Ingresar" style="background-color:transparent; color:black">
-  <br><br>
+      
          
-        </form>
+         Usuario:<br>          
+            <asp:TextBox ID="txt_cedula"  TextMode="Number" runat="server"></asp:TextBox><br>
+         <asp:RequiredFieldValidator ID="RequiredFieldValidator1" runat="server"   
+ControlToValidate="txt_cedula" ErrorMessage="Digite Cedula de Usuario"   
+ForeColor="Red"></asp:RequiredFieldValidator>    
+         <br>
+        
+            Contraseña:<br>
+         
+         <asp:TextBox ID="txt_pass" TextMode="Password" runat="server"></asp:TextBox>  <br>
+         <asp:RequiredFieldValidator ID="RequiredFieldValidator2" runat="server"   
+ControlToValidate="txt_pass" ErrorMessage="Digite Contraseña "   
+ForeColor="Red"></asp:RequiredFieldValidator> 
+  <br><br>
+         <asp:Button ID="b_ingresar" runat="server" Text="Ingresar" OnClick="b_ingresar_Click"  />
+          <br> <br>
+        <asp:Label ID="Label1" runat="server"></asp:Label> 
+          </form>
         </div>
 </div> 
 <div id="derecha"> 
@@ -43,6 +54,5 @@
 </div> 
 </div> 
 
-    </form>
-</body>
+    </body>
 </html>

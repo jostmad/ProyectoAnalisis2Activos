@@ -27,17 +27,23 @@ float: left;
 
 border-style:dotted;
 margin:20% 20% 20% 20%;
+
+
 }
+
 #formu input[type=number]{
     border: none;
 border-bottom:2px solid black;
 width:200px;
+
 }
 #formu input[type=password]{
     border: none;
 border-bottom:2px solid black;
 width:200px;
+
 }
+
 #derecha{
 width:50%;
 height:100%;
