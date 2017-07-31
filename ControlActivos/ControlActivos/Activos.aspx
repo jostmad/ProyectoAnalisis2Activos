@@ -62,7 +62,6 @@
     
 
         
-    <h3>Buscar Activo. <input type="number" name="codigoBus"><input  type="submit" value="Buscar">
         <input type="button" value="Ver" onClick="location.href = 'Vista_Activos.aspx' "></h3>
     
     <hr>
