@@ -62,7 +62,7 @@
     
 
         
-        <input type="button" value="Ver" onClick="location.href = 'Vista_Activos.aspx' "></h3>
+        <h3><input type="button" value="Ver" onClick="location.href = 'Vista_Activos.aspx' "></h3>
     
     <hr>
 
