@@ -12,7 +12,8 @@ namespace ControlActivos
 {
     public partial class Activos : Page
     {
-        ActivosMant obj = new ActivosMant();
+        SqlConnection cn = new SqlConnection("Data Source=.;Initial Catalog=Pani;Integrated Security=True");
+        Mantenimientos obj = new Mantenimientos();
         protected void Page_Load(object sender, EventArgs e)
         {
 
