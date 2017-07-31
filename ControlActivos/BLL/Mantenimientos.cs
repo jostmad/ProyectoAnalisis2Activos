@@ -11,21 +11,21 @@ namespace BLL
     {
         SqlConnection conexion = new SqlConnection();
 
-        SqlConnection cn = new SqlConnection("Data Source=.;Initial Catalog=Pani;Integrated Security=True");
+        SqlConnection cn = new SqlConnection("Data Source=HAPPY\\SQL2016;Initial Catalog=Pani;Integrated Security=True");
 
 
         string motrarError;
 
-        public string MotrarError
+public string MotrarError
         {
             get { return motrarError; }
-            set { motrarError = value; }
+                    set { motrarError = value; }
         }
 
         private bool ConectarServer()
         {
             bool respuesta = false;
-            string cadenaConexion = @"Data Source=.;Initial Catalog=Pani;Integrated Security=True";
+            string cadenaConexion = @"Data Source=HAPPY\\SQL2016;Initial Catalog=Pani;Integrated Security=True";
             try
             {
                 conexion.ConnectionString = cadenaConexion;
@@ -229,6 +229,9 @@ namespace BLL
             }
             return respuesta;
         }
+
+
+
 
     }
 }

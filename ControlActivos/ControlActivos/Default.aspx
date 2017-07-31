@@ -34,5 +34,6 @@
             </p>
         </div>
     </div>
-
+    <asp:Button ID="b_Salir" runat="server" Height="47px" onclick="b_Salir_Click"   
+Text="SALIR" Width="92px" />  
 </asp:Content>

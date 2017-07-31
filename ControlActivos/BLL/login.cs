@@ -1,58 +1,67 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Web;
-using System.Web.UI;
-using System.Web.UI.WebControls;
-using BLL;
+using System.Text;
+using System.Threading.Tasks;
 using System.Data;
 using System.Data.SqlClient;
 
-namespace ControlActivos
+namespace BLL
 {
-    public partial class Login : System.Web.UI.Page
+    public class login
     {
-        login obj_login = new login();
         SqlConnection conexion = new SqlConnection();
 
         SqlConnection cn = new SqlConnection("Data Source=HAPPY\\SQL2016;Initial Catalog=Pani;Integrated Security=True");
 
 
-        protected void Page_Load(object sender, EventArgs e)
-        {
+        #region propiedades
+        private int _cedu;
 
+        public int cedu
+        {
+            get { return _cedu; }
+            set { _cedu = value; }
+        }
+        private string _pass;
+
+        public string pass
+        {
+            get { return _pass; }
+            set { _pass = value; }
         }
 
-        protected void b_ingresar_Click(object sender, EventArgs e)
+        #endregion
+        #region metodos
+        public void verifica()
         {
-            String clave = txt_pass.Text;
-            int cedula = Convert.ToInt32(txt_cedula.Text);
-
+/*
             SqlCommand query = new SqlCommand("usp_busclogin", cn);
-            query.CommandType = CommandType.StoredProcedure;
-
-            query.Parameters.AddWithValue("@cedu", SqlDbType.Int).Value=cedula;
-            query.Parameters.AddWithValue("@pass", SqlDbType.VarChar).Value = clave ;
+            query.Parameters.AddWithValue("@cedu", _cedu );
+            query.Parameters.AddWithValue("@pass", _pass );
             SqlDataAdapter sda = new SqlDataAdapter(query);
             DataTable dt = new DataTable();
             sda.Fill(dt);
             cn.Open();
             int i = query.ExecuteNonQuery();
             cn.Close();
-
             if (dt.Rows.Count > 0)
             {
-                Session["cedu"] = cedula;
+                Session["id"] = cedula;
                 Response.Redirect("Default.aspx");
                 Session.RemoveAll();
             }
             else
             {
-                Label1.Text = "Incorrecto";
+                Label1.Text = "You're username and word is incorrect";
                 Label1.ForeColor = System.Drawing.Color.Red;
 
             }
+            */
+
         }
-    
+        #endregion
+
+
     }
 }

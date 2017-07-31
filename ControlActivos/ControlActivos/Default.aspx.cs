@@ -13,5 +13,11 @@ namespace ControlActivos
         {
 
         }
+
+        protected void b_Salir_Click(object sender, EventArgs e)
+        {
+            Session.RemoveAll();
+            Response.Redirect("login.aspx");
+        }
     }
 }

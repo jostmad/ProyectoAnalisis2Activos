@@ -12,7 +12,7 @@ namespace ControlActivos
 {
     public partial class Activos : Page
     {
-        SqlConnection cn = new SqlConnection("Data Source=.;Initial Catalog=Pani;Integrated Security=True");
+        SqlConnection cn = new SqlConnection("Data Source=HAPPY\\SQL2016;Initial Catalog=Pani;Integrated Security=True");
         Mantenimientos obj = new Mantenimientos();
         protected void Page_Load(object sender, EventArgs e)
         {
