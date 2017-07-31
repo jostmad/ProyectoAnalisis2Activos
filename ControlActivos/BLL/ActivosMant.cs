@@ -14,6 +14,7 @@ namespace BLL
         SqlConnection cn = new SqlConnection("Data Source=localhost;Initial Catalog=Pani;Integrated Security=True");
         Mantenimientos obj = new Mantenimientos();
 
+
         #region propiedades
 
         private int _codigo;
