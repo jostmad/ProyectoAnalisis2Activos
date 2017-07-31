@@ -32,7 +32,6 @@ namespace ControlActivos
 
             Label1.Text=obj.insertarActivos(Label1.Text).ToString();
      
-            
         }
     }
 }
