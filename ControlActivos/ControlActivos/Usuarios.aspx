@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Usuarios" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Usuarios.aspx.cs" Inherits="ControlActivos.Usuarios" %>
+﻿<%@ Page Title="Usuarios" EnableEventValidation="false" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Usuarios.aspx.cs" Inherits="ControlActivos.Usuarios" %>
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
      <link href="Content/forms.css" rel="stylesheet" />
@@ -7,25 +7,29 @@
     
 
     <div class="formrepor">
-    <h1><%: Title %>.</h1><br>
+    <h1><%: Title %>.</h1>
+        <asp:Label ID="Label1" runat="server"></asp:Label>
+        <br>
 
     <form  action="Usuarios.aspx" method="post">
    
     
     
-       Usuario:<br>
-       <input type="text" name="usuario"><br>
-        Codigo Activo:<br>
-        <input type="number" name="codigo"><br>
-        Telefono:<br>
-        <input type="number" name="telefono"><br>
-        Estado<br>
-        <input type="text" name="estado"><br>
+        Nombre:<br>
+        <asp:TextBox ID="txt_usua" runat="server"></asp:TextBox>
+        <br>
+        Cédula:<br>
+        <asp:TextBox ID="txt_cedu" runat="server"></asp:TextBox>
+        <br>
+        Contraseña:<br>
+        <asp:TextBox ID="txt_pass" runat="server"></asp:TextBox>
+        <br>
+        Tipo de Rol<br>
+        <asp:TextBox ID="txt_rol" runat="server"></asp:TextBox>
+        <br>
        
-        <input  type="submit" value="Agregar">
-  
-        
-        </form>
+        &nbsp;</form>
+        <asp:Button ID="b_modificar" runat="server" OnClick="b_modificar_Click" Text="Modificar" />
     </div>
 
 

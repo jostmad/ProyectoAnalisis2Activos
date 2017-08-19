@@ -15,7 +15,7 @@ namespace ControlActivos
         login obj_login = new login();
         SqlConnection conexion = new SqlConnection();
 
-        SqlConnection cn = new SqlConnection("Data Source=HAPPY\\SQL2016;Initial Catalog=Pani;Integrated Security=True");
+        SqlConnection cn = new SqlConnection("Data Source=.;Initial Catalog=Pani;Integrated Security=True");
 
 
         protected void Page_Load(object sender, EventArgs e)

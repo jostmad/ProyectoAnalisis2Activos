@@ -39,14 +39,12 @@
     </td><tr><td>Usuario:<br>
             <asp:TextBox ID="txt_usuario" runat="server"></asp:TextBox>
             <br>
-    </td><td>Tipo Activo:<br>
-                <asp:TextBox ID="txt_tipoactivo" runat="server"></asp:TextBox>
+    </td><td>Fecha de vencimiento<br>
+                <asp:TextBox ID="txt_fechavencer" runat="server"></asp:TextBox>
                 <br>
-    </td><td>Imagen:<br>
-    <INPUT id="oFile" type="file" runat="server" NAME="oFile">
-
-    </td></tr><tr><td>Fecha:<br>
-            <asp:TextBox ID="txt_fecha" runat="server"></asp:TextBox>
+    </td><td><br>
+    &nbsp;</td></tr><tr><td>Fecha:<br>
+            <asp:TextBox ID="txt_fecha" runat="server" ToolTip="0000/00/00"></asp:TextBox>
             <br>
 
     </td><td>Garantia:<br>
@@ -55,17 +53,32 @@
         
    <td> <br>
        <asp:Button ID="b_agregar" runat="server" Text="Agregar" OnClick="b_agregar_Click" />
-&nbsp;</td></tr>
+&nbsp;<asp:Button ID="b_modificar" runat="server" OnClick="b_modificar_Click" Text="Modificar" />
+            </td></tr>
         
         </form>
     </table>
     
-
-    <h3>Buscar Activo. <input type="number" name="codigoBus"><input  type="submit" value="Buscar">
-        <input type="button" value="Ver" onClick="location.href = 'Vista_Activos.aspx' ">
+       
     </h3>
     
-    <hr>
+        <br />
+        <br />
+        <asp:GridView ID="GridView1" runat="server" DataSourceID="activos"
+        AutoGenerateEditButton="true" DataKeyNames="codigo_activo">
+                <Columns>
+                <asp:CommandField ShowSelectButton="false" />
+            </Columns>
+        </asp:GridView>
+       
+        <asp:SqlDataSource 
+  ID="activos"
+  runat="server" 
+  ConnectionString="Data Source=localhost;Integrated Security=SSPI;Initial Catalog=Pani"
+  SelectCommand="SELECT * FROM activos"   UpdateCommand="UPDATE activos set fecha_compra = @fecha_compra, fecha_vencerse=@fecha_vencerse, garantia = @garantia,
+	marca = @marca, usuario = @usuario, modelo =@modelo, so= @so, oficina=@oficina, region=@region where codigo_activo = @codigo_activo;"/> 
+     <br />
+        <br />
 
         </div>
 </asp:Content>
